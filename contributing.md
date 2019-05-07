@@ -14,7 +14,7 @@ For OpenDA we distinguish two methods for contributing:
 
 ## Repository structure
 
-As a general rule all code changes are first committed to a branch. These branches are usually personal, so you can work here in your without interference of other developments. There are a few special branches, with the name master or starting with release. These names are reserved and should not be used for development.
+As a general rule all code changes are first committed to a branch. These branches are usually personal, so you can work here in your branch without interference of other developments. There are a few special branches, with the name master or starting with release. These names are reserved and should not be used for development.
 
 ## Step by step
 
